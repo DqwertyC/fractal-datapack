@@ -1,0 +1,1 @@
+execute as @e[tag=mandel_unit,sort=nearest,limit=1] run function mandelbrot:set_basis
