@@ -1,6 +1,0 @@
-{
-  "values": [
-    "sierpinski:on_tick",
-	"mandelbrot:on_tick"
-  ]
-}

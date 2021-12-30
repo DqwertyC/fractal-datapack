@@ -1,6 +1,0 @@
-{
-  "values": [
-    "sierpinski:on_load",
-	"mandelbrot:on_load"
-  ]
-}
